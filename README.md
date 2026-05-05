@@ -4,7 +4,7 @@
 **Persistence; The Theorem of Everything — Tier 1 Reviewer Repository**
 
 **Author:** Camron Williams · Williams & Williams PTY (LTD)
-**License:** [Tier 1 Reviewer License](LICENSE) — USD 25 / month, max 3 months
+**License:** [Tier 1 Reviewer License] — USD 25 / month, max 3 months
 **Lean version:** see [`lean-toolchain`](lean-toolchain)
 **Scope:** 10 files — the complete derivation chain for the neutrino mass predictions
 **Build:** 0 `sorry` · 0 custom axioms · kernel base: `{propext, Classical.choice, Quot.sound}`
@@ -142,7 +142,6 @@ tier above Tier 0 is enquiry-first and personally approved by the author.
 **Contact:** camron.d.williams@gmail.com
 **ORCID:** [0009-0007-1228-2462](https://orcid.org/0009-0007-1228-2462)
 
-Full tier terms and prohibitions: see [LICENSE](LICENSE) in this repository.
 
 ---
 
