@@ -1,4 +1,3 @@
-<p align="center"><img src="assets/logo.jpg" height="80" alt="Williams &amp; Williams PTY (LTD)"/></p>
 # Neutrino Absolute Mass Derivation
 
 **Persistence; The Theorem of Everything — Tier 1 Reviewer Repository**
